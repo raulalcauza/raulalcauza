@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
+Gestor de proyectos industriales: Business Analytics,  Machine Learning. Iniciándome en Deep Learning y Computer Vision actualmente. Perfeccionando RStudio, Python, SQL (MySQL)  🖥️ y PowerBI. Git y GitHub para control de versiones.
 ![Presentación]()
 
 <!--
