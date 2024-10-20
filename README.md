@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Presebtación](C:\Users\evely\Documents\GIT)
+![Presentación](C:\Users\evely\Documents\GIT)
 
 <!--
 **raulalcauza/raulalcauza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
