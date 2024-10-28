@@ -3,7 +3,7 @@
 ## Hola, mi nombre es Raúl Alcauza 👋
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
 Gestor de proyectos industriales: Business Analytics,  Machine Learning. Iniciándome en Deep Learning y Computer Vision actualmente. Perfeccionando RStudio, Python, SQL (MySQL)  🖥️ y PowerBI. Git y GitHub para control de versiones.
-![Presentación](raulalcauza/Captura.JPG)
+[Presentación](raulalcauza/Captura.JPG)
 
 <!--
 **raulalcauza/raulalcauza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
