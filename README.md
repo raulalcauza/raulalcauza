@@ -7,11 +7,15 @@ Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚.
 Me apasiona la técnología, y entre otros motivos este fue elque me hizo reconducir mi carrera en todo lo relacionado a analítica de datos y aprendizaje automático (ML). 
 Entre mis proyectos, ya sea a nivel personal como laboral:
 
-* Realización de Proyecto de Machine Learning: "Abandono de Clientes de Operadora de Telecomunicaciones", bajo RStudio. Con y sin pequeña presentación en PowerBI.
+** Bajo RStudio
 
-# Realización de Proyecto de Machine Learning: "Text Mining. Digitalización España 2021-2025"
-
-# Realización de Proyecto de Machine Learning: "Informe Coronavirus 2021. Sin Impacto Vacunas"
+  * Realización de Proyecto de Machine Learning: "Abandono de Clientes de Operadora de Telecomunicaciones". Con y sin pequeña presentación en PowerBI.
+  
+  * Realización de Proyecto de Machine Learning: "Text Mining. Digitalización España 2021-2025"
+  
+  * Realización de Proyecto de Machine Learning: "Informe Coronavirus 2021. Sin Impacto Vacunas"
+  
+  * Realización de Proyecto con Leaflet: "Mapas Interactivos con Leaflet". 
 
 ![**Presentación**](Captura.JPG)
 
