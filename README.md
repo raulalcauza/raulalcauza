@@ -10,7 +10,7 @@ Entre mis proyectos, ya sea a nivel personal como laboral:
 **Bajo RStudio**
 
   * Realización de Proyecto de Machine Learning: "Abandono de Clientes de Operadora de Telecomunicaciones". Con y sin pequeña presentación en PowerBI.
-    ![**Presentación**](Media/Random Forest.JPG)
+    ![**Presentación**](Media/Roc.JPG)
   
   * Realización de Proyecto de Machine Learning: "Text Mining. Digitalización España 2021-2025"
     ![**Presentación**](TextMinning.JPG)
