@@ -12,12 +12,14 @@ Entre mis proyectos, ya sea a nivel personal como laboral:
   * Realización de Proyecto de Machine Learning: "Abandono de Clientes de Operadora de Telecomunicaciones". Con y sin pequeña presentación en PowerBI.
   
   * Realización de Proyecto de Machine Learning: "Text Mining. Digitalización España 2021-2025"
+    ![**Presentación**](Captura.JPG)
   
   * Realización de Proyecto de Machine Learning: "Informe Coronavirus 2021. Sin Impacto Vacunas"
+    ![**Presentación**](Captura.JPG)
   
   * Realización de Proyecto con Leaflet: "Mapas Interactivos con Leaflet". 
 
-![**Presentación**](Captura.JPG)
+
 
 <!--
 **raulalcauza/raulalcauza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
