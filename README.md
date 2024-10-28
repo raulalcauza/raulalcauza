@@ -1,8 +1,18 @@
 ## PERFIL EN CONSTRUCCIÓN, NO TARDARÉ MUCHO!
 
 ## Hola, mi nombre es Raúl Alcauza 👋
+
+
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
-Gestor de proyectos industriales: Business Analytics,  Machine Learning. Iniciándome en Deep Learning y Computer Vision actualmente. Perfeccionando RStudio, Python, SQL (MySQL)  🖥️ y PowerBI. Git y GitHub para control de versiones.
+Me apasiona la técnología, y entre otros motivos este fue elque me hizo reconducir mi carrera en todo lo relacionado a analítica de datos y aprendizaje automático (ML). 
+Entre mis proyectos, ya sea a nivel personal como laboral:
+
+# Realización de Proyecto de Machine Learning: "Abandono de Clientes de Operadora de Telecomunicaciones", bajo RStudio. Con y sin pequeña presentación en PowerBI.
+
+# Realización de Proyecto de Machine Learning: "Text Mining. Digitalización España 2021-2025"
+
+# Realización de Proyecto de Machine Learning: "Informe Coronavirus 2021. Sin Impacto Vacunas"
+
 ![**Presentación**](Captura.JPG)
 
 <!--
