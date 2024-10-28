@@ -13,10 +13,10 @@ Entre mis proyectos, ya sea a nivel personal como laboral:
     ![**Presentación**](Random Forest.JPG)
   
   * Realización de Proyecto de Machine Learning: "Text Mining. Digitalización España 2021-2025"
-    ![**Presentación**](Captura.JPG)
+    ![**Presentación**](TextMinning.JPG)
   
   * Realización de Proyecto de Machine Learning: "Informe Coronavirus 2021. Sin Impacto Vacunas"
-    ![**Presentación**](Captura.JPG)
+    ![**Presentación**](Coronavirus_.JPG)
   
   * Realización de Proyecto con Leaflet: "Mapas Interactivos con Leaflet". 
 
