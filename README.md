@@ -10,16 +10,11 @@ Entre mis proyectos, ya sea a nivel personal como laboral:
 **Bajo RStudio**
 
   * Realización de Proyecto de Machine Learning: "Abandono de Clientes de Operadora de Telecomunicaciones". Con y sin pequeña presentación en PowerBI.
-    
-
   * Realización de Proyecto de Machine Learning: "Text Mining. Digitalización España 2021-2025"
-    
-   // ![**Presentación**](Media/TextMinning.JPG)
+   #![**Presentación**](Media/TextMinning.JPG)
   
   * Realización de Proyecto de Machine Learning: "Informe Coronavirus 2021. Sin Impacto Vacunas"
-  
   * Realización de Proyecto con Leaflet: "Mapas Interactivos con Leaflet".
-    
   * Realización de Proyecto con Selenium: "Automatización de Descarga de archivos excel desde web".
 
 NOTA: Todos estos proyecto, salvo el último, están publicados 
