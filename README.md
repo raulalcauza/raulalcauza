@@ -30,7 +30,7 @@ Encuéntrame, por el momento, en:
  * Etc.
 
  * Aplicaciones A medio Plazo:
- * </br>
+   </br>
      *Aplicación bajo Streamlit y algoritmos ML: "Web App para comprobar riesgo en la aprobación de créditos de clientes".
      </br>
      *Aplicación bajo Streamlit y algoritmos ML: "Web App para comprobar riesgo en la aprobación de créditos de clientes".
