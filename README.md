@@ -14,7 +14,10 @@ Desde mas de 3 años Data Analytics, entre proyectos, aplicaciones y automatizac
   * Proyecto realizado con Leaflet: "Mapas Interactivos con Leaflet".
   * Realización de Proyecto con Selenium: "Automatización de Descarga de archivos excel desde web".
 
-NOTA: Todos estos proyecto, salvo el último, están publicados en la web gratutita de R, en breve serán migrados a este repositorio. Encuéntrame, de momento en:
+NOTA: Todos estos proyecto, salvo el último, están publicados en la web gratutita de R, en breve serán migrados a este repositorio. 
+</br>
+Encuéntrame, de momento en:
+</br>
 ⭐️ [Web](https://www.rpubs.com/Raul_A_P)
 
 **Bajo Python (con IDE: Visual Studio Code)**
