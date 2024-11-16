@@ -1,6 +1,8 @@
 
 ## Hola, mi nombre es Raúl Alcauza 👋
 
+![https://github.com/mouredev](./Inicio.JPG)
+
 
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
 Me apasiona todo lo relacionado con la TI y con ML. Entre otros, este motivo fue el mas importante que hizo reconducir mi carrera en todo lo relacionado a: analítica de datos y aprendizaje automático (ML). 
