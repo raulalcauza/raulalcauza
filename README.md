@@ -17,7 +17,7 @@ Actualmente analista desde hace 3 años.
 NOTA: Todos estos proyecto, salvo el último, están publicados en la web gratutita de R, en breve serán migrados a este repositorio.
 ## Encuéntrame en:
 
-[![web](https://www.rpubs.com/Raul_A_P)
+[![Web](https://www.rpubs.com/Raul_A_P)
 
 **Bajo Python (con IDE: Visual Studio Code)**
 
