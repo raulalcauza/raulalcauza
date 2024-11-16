@@ -1,7 +1,7 @@
 
 ## Hola, mi nombre es Raúl Alcauza 👋
 
-![https://github.com/raulalcauza/raulalcauza](./Inicio.JPG)
+![https://github.com/raulalcauza/raulalcauza](Media/Anagrama.jpg)
 
 
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
