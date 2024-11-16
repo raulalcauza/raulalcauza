@@ -3,8 +3,8 @@
 
 
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
-Me apasiona la técnología, y entre otros motivos este fue el que me hizo reconducir mi carrera en todo lo relacionado a analítica de datos y aprendizaje automático (ML). 
-Actualmente analista desde hace 3 años.
+Me apasiona todo lo relacionado con la TI y con ML. Entre otros, este motivo fue el mas importante que hizo reconducir mi carrera en todo lo relacionado a: analítica de datos y aprendizaje automático (ML). 
+Actualmente analista desde hace 3 años. Entre proyectos, aplicaciones y automatizaciones mas importantes realizadas:
 
 **Bajo RStudio**
 
@@ -17,7 +17,7 @@ Actualmente analista desde hace 3 años.
 NOTA: Todos estos proyecto, salvo el último, están publicados en la web gratutita de R, en breve serán migrados a este repositorio.
 ## Encuéntrame en:
 
-[![Web](https://www.rpubs.com/Raul_A_P)
+[Web](https://www.rpubs.com/Raul_A_P)
 
 **Bajo Python (con IDE: Visual Studio Code)**
 
