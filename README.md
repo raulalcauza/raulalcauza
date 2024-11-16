@@ -1,11 +1,10 @@
-## PERFIL EN CONSTRUCCIÓN, ESTOY MEJORANDO EL CONTENIDO Y LA PRESENTACIÓN. NO TARDARÉ MUCHO!
 
 ## Hola, mi nombre es Raúl Alcauza 👋
 
 
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
 Me apasiona la técnología, y entre otros motivos este fue el que me hizo reconducir mi carrera en todo lo relacionado a analítica de datos y aprendizaje automático (ML). 
-Entre mis proyectos, ya sea a nivel personal como laboral:
+Actualmente analista desde hace 3 años.
 
 **Bajo RStudio**
 
@@ -16,6 +15,9 @@ Entre mis proyectos, ya sea a nivel personal como laboral:
   * Realización de Proyecto con Selenium: "Automatización de Descarga de archivos excel desde web".
 
 NOTA: Todos estos proyecto, salvo el último, están publicados en la web gratutita de R, en breve serán migrados a este repositorio.
+## Encuéntrame en:
+
+[![web](https://www.rpubs.com/Raul_A_P)
 
 **Bajo Python (con IDE: Visual Studio Code)**
 
