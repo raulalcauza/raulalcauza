@@ -16,7 +16,7 @@ Desde mas de 3 años Data Analytics, entre proyectos, aplicaciones y automatizac
 
 NOTA: Todos estos proyecto, salvo el último, están publicados en la web gratutita de R, en breve serán migrados a este repositorio. 
 </br>
-Encuéntrame, de momento en:
+Encuéntrame, por el momento, en:
 </br>
 ⭐️ [Web](https://www.rpubs.com/Raul_A_P)
 
