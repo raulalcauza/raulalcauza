@@ -35,7 +35,7 @@ Encuéntrame, por el momento, en:
      </br>
 
 
-Realización de informes, con diferentes orígenes de datos, para su visualización en PowerBI.
+Realización de informes, con diferentes orígenes de datos y Project Manager, para su visualización en PowerBI Desktop y Power BI Services.
 
 
 
