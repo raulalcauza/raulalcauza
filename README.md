@@ -1,10 +1,8 @@
 
 ## Hola, mi nombre es Raúl Alcauza (sigo trabajando en el código Markdown)👋
 
-[![Git](https://github.com/raulalcauza/raulalcauza)](Media/A.jpg)
-
-
-
+[![Git](https://github.com/raulalcauza/raulalcauza)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/raulalcauza/raulalcauza)
 
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
 Me apasiona todo lo relacionado con la TI y con ML. Entre otros, este motivo fue el mas importante que hizo reconducir mi carrera en todo lo relacionado a: analítica de datos y aprendizaje automático (ML). 
