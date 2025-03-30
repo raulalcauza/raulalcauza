@@ -1,7 +1,9 @@
 
 ## Hola, mi nombre es Raúl Alcauza (sigo trabajando en el código Markdown)👋
 
-[https://github.com/raulalcauza/raulalcauza](Media/A.jpg)
+![https://github.com/raulalcauza/raulalcauza](Media/A.jpg)
+
+
 
 
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
