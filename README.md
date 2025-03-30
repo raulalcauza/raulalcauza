@@ -1,7 +1,6 @@
 
 ## Hola, mi nombre es Raúl Alcauza (sigo trabajando en el código Markdown)👋
 
-[![Git](https://github.com/raulalcauza/raulalcauza)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/raulalcauza/raulalcauza)
 
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
