@@ -1,7 +1,7 @@
 
 ## Hola, mi nombre es Raúl Alcauza (sigo trabajando en el código Markdown)👋
 
-[![Web](https://github.com/raulalcauza/raulalcauza)](Media/A.jpg)
+[![Git](https://github.com/raulalcauza/raulalcauza)](Media/A.jpg)
 
 
 
