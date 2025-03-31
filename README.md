@@ -4,8 +4,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/raulalcauza/raulalcauza)
 
 Soy Ingeniero Técnico Industrial 🤓 👨‍🏫 📚. 
-Me apasiona todo lo relacionado con la TI y con ML. Entre otros, este motivo fue el mas importante que hizo reconducir mi carrera en todo lo relacionado a: analítica de datos y aprendizaje automático (ML). 
-Desde mas de 3 años Data Analytics, entre proyectos, aplicaciones y automatizaciones mas importantes realizadas:
+Me apasiona todo lo relacionado con la TI, ML (machine learning) y Computer Vision. Esta fue la razón mas importante que me hizo reconducir mi carrera, en todo lo relacionado con: analítica de datos, aprendizaje automático (ML) e IA.
+Desde hace mas de 3 años, no he parado estudiar en este área, ni creo que lo haga.
+
+Entre proyectos, aplicaciones y automatizaciones mas importantes realizadas:
 
 **Bajo RStudio**
 
