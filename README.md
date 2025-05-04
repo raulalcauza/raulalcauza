@@ -34,6 +34,8 @@ Encuéntrame, por el momento, en:
    </br>
      *Aplicación bajo Streamlit y algoritmos ML: "Web App para comprobar riesgo en la aprobación de créditos de clientes".
      </br>
+     *Aplicación bajo Streamlit y algoritmos ML: "Web App para identificación de componentes específicos, bajo PyTorch".
+     </br>
 
 
 Realización de informes, con diferentes orígenes de datos, para su visualización en PowerBI Desktop y Power BI Services.
