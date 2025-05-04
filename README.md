@@ -34,7 +34,7 @@ Encuéntrame, por el momento, en:
    </br>
      *Aplicación bajo Streamlit y algoritmos ML: "Web App para comprobar riesgo en la aprobación de créditos de clientes".
      </br>
-     *Aplicación bajo Streamlit y algoritmos ML: "Web App para identificación de componentes específicos, bajo PyTorch".
+     *Aplicación bajo Streamlit y algoritmos de Redes Densas: "Web App para identificación de componentes específicos, bajo PyTorch".
      </br>
 
 
